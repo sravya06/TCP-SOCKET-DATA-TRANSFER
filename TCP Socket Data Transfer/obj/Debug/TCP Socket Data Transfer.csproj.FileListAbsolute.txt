@@ -1,0 +1,10 @@
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\bin\Debug\TCP Socket Data Transfer.exe.config
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\bin\Debug\TCP Socket Data Transfer.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\bin\Debug\TCP Socket Data Transfer.pdb
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\obj\Debug\TCP Socket Data Transfer.csprojAssemblyReference.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\obj\Debug\TCP_Socket_Data_Transfer.Form1.resources
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\obj\Debug\TCP_Socket_Data_Transfer.Properties.Resources.resources
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\obj\Debug\TCP Socket Data Transfer.csproj.GenerateResource.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\obj\Debug\TCP Socket Data Transfer.csproj.CoreCompileInputs.cache
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\obj\Debug\TCP Socket Data Transfer.exe
+C:\Users\ssriramoju\source\repos\TCP file transfer-client\TCP Socket Data Transfer\obj\Debug\TCP Socket Data Transfer.pdb
